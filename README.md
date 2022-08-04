@@ -39,7 +39,7 @@ Chasing the currency, rich person table insert me.
 I stay strict to my roots, like a kernal be,
 I speak from the heart, near where my sternum be.
 
-
+Thanks for visiting my page, feel free to ask questions, provide feedback, correct coding, etc!  👋  👋  👋 
 
 
 <!--
