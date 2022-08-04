@@ -1,4 +1,46 @@
-### Hi there 👋
+### 
+Hi there, aloha, bonjour, hola! 👋 I'm David Francisco and I use pronouns he/him.
+I'm a software dev based out of San Diego, and I run my own dog grooming business when I'm not wading waist-deep through code I wrote yesterday.
+  
+  I'm currently working on various projects, but I'm most passionate about games and stories. I'm looking forward to creating new apps and ways for people to connect or immerse themselves in another world. Currently learning Node.js in combination with React and JavaScript, but I would love to learn more about the C language and why it's popular for game development.
+  
+  PROJECT: HYNT
+  My first game was a choice-driven, browser-based game that utilized state to render different options to the user. In all, there were about 30 choices for the game, and I wrote the storyboard for those paths.
+
+  PROJECT: DUNGEONS AND (maybe) DRAGONS
+  My second project, made in collaboration with a group, that utilized an API based on the "System Reference Documents" provided in Dungeons and Dragons called "Dungeons and (maybe) Dragons". It was primarily built to simplify the character creation process, taking more than 40+ places for input and simplifying it to race, class, and stats. It also includes a randomizer, for that REAL D&D experience.
+  
+  I love infusing projects with my sense of humor and pop culture references, and am looking forward to collaborating with new people and new perspectives. Connect with me/hit me up if you want to talk RPGs, React, JS, or anything else!
+
+Mad skillz:
+- React
+- Node.js
+- PostgreSQL
+- HTML/CSS
+- Miro Board for planning
+- Supabase
+- Leadership and allocating resources/work
+- Curiosity. This may or may not be a good thing.
+
+Some ✨fun(?)✨ facts about me:
+- I joined the Navy before I had ever seen the ocean.
+- I had built the quintessential "cow game" in C++ before going to school for web development.
+- I hate the CSS property opacity. Alpha values rock!
+- I didn't think I would enjoy design, but I really do.
+- I write poetry and raps!
+
+*ahem*
+I bend HTML elements like the avatar Aang,
+I love weird stuff like interrobangs,
+Git clone, git push, I git that thang,
+I be throwing out bytes like I got fangs.
+This mic be a ternary, not null for eternity,
+Chasing the currency, rich person table insert me.
+I stay strict to my roots, like a kernal be,
+I speak from the heart, near where my sternum be.
+
+
+
 
 <!--
 **dfrancisco26/dfrancisco26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
