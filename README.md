@@ -10,6 +10,9 @@ I'm a software dev based out of San Diego, and I run my own dog grooming busines
   PROJECT: DUNGEONS AND (maybe) DRAGONS
   My second project, made in collaboration with a group, that utilized an API based on the "System Reference Documents" provided in Dungeons and Dragons called "Dungeons and (maybe) Dragons". It was primarily built to simplify the character creation process, taking more than 40+ places for input and simplifying it to race, class, and stats. It also includes a randomizer, for that REAL D&D experience.
   
+  PROJECT: PIXIE.JS
+  Pixie.js is a tarot card API highlighting the art of Pamela "Pixie" Colman Smith, with lots of routes and ways to sort the database.
+  
   I love infusing projects with my sense of humor and pop culture references, and am looking forward to collaborating with new people and new perspectives. Connect with me/hit me up if you want to talk RPGs, React, JS, or anything else!
 
 Mad skillz:
