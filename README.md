@@ -12,6 +12,8 @@ I'm a software dev based out of San Diego, and I run my own dog grooming busines
   
   PROJECT: PIXIE.JS
   Pixie.js is a tarot card API highlighting the art of Pamela "Pixie" Colman Smith, with lots of routes and ways to sort the database.
+
+  https://pixie-tarot-api.herokuapp.com/
   
   I love infusing projects with my sense of humor and pop culture references, and am looking forward to collaborating with new people and new perspectives. Connect with me/hit me up if you want to talk RPGs, React, JS, or anything else!
 
