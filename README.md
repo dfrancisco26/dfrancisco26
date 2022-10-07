@@ -15,11 +15,15 @@ I'm a software dev based out of San Diego, and I run my own dog grooming busines
 
   https://pixie-tarot-api.herokuapp.com/
   
+  I'm currently working on a portfolio site featuring Next.js as my primary framework. 
+  
   I love infusing projects with my sense of humor and pop culture references, and am looking forward to collaborating with new people and new perspectives. Connect with me/hit me up if you want to talk RPGs, React, JS, or anything else!
 
-Mad skillz:
+Skills:
+- Next.js
 - React
 - Node.js
+- Test Driven Development
 - PostgreSQL
 - HTML/CSS
 - Miro Board for planning
