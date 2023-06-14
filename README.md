@@ -2,22 +2,20 @@
 Hi there, aloha, bonjour, hola! 👋 I'm David Francisco and I use pronouns he/him.
 I'm a software dev based out of San Diego, and I run my own dog grooming business when I'm not wading waist-deep through code I wrote yesterday.
   
-  I'm currently working on various projects, but I'm most passionate about games and stories. I'm looking forward to creating new apps and ways for people to connect or immerse themselves in another world. Currently learning Node.js in combination with React and JavaScript, but I would love to learn more about the C language and why it's popular for game development.
+  I'm most passionate about games and stories. I gravitate towards creating new apps and ways for people to connect or immerse themselves in another world. I have used Node.js in combination with React and JavaScript as well as Python with Django, but I would love to learn more about the C language and why it's popular for game development.
   
   PROJECT: HYNT
-  My first game was a choice-driven, browser-based game that utilized state to render different options to the user. In all, there were about 30 choices for the game, and I wrote the storyboard for those paths.
+  My first project was a choice-driven, browser-based game that utilized state to render different options to the user. In all, there were about 30 choices for the game, and I wrote the storyboard for those paths.
 
   PROJECT: DUNGEONS AND (maybe) DRAGONS
-  My second project, made in collaboration with a group, that utilized an API based on the "System Reference Documents" provided in Dungeons and Dragons called "Dungeons and (maybe) Dragons". It was primarily built to simplify the character creation process, taking more than 40+ places for input and simplifying it to race, class, and stats. It also includes a randomizer, for that REAL D&D experience.
+  My second project was one that utilized an API based on the "System Reference Documents" provided in Dungeons and Dragons called "Dungeons and (maybe) Dragons". It was primarily built to simplify the character creation process, taking more than 40+ places for input and simplifying it to race, class, and stats. It also includes a randomizer, for that REAL D&D experience.
   
   PROJECT: PIXIE.JS
-  Pixie.js is a tarot card API highlighting the art of Pamela "Pixie" Colman Smith, with lots of routes and ways to sort the database.
-
-  https://pixie-tarot-api.herokuapp.com/
+  Pixie.js is a tarot card API highlighting the art of Pamela "Pixie" Colman Smith, with lots of routes and properties to sort the database by.
   
   I'm currently working on a portfolio site featuring Next.js as my primary framework. 
   
-  I love infusing projects with my sense of humor and pop culture references, and am looking forward to collaborating with new people and new perspectives. Connect with me/hit me up if you want to talk RPGs, React, JS, or anything else!
+  I love infusing projects with my sense of humor and pop culture references, and am looking forward to collaborating with new people and new perspectives. Connect with me/hit me up if you want to talk RPGs, programming, food, Dnd or Magic!
 
 Skills:
 - Next.js
