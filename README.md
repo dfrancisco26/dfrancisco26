@@ -8,7 +8,7 @@ I'm a software dev based out of San Diego, and I run my own dog grooming busines
   My first project was a choice-driven, browser-based game that utilized state to render different options to the user. In all, there were about 30 choices for the game, and I wrote the storyboard for those paths.
 
   PROJECT: DUNGEONS AND (maybe) DRAGONS
-  My second project was one that utilized an API based on the "System Reference Documents" provided in Dungeons and Dragons called "Dungeons and (maybe) Dragons". It was primarily built to simplify the character creation process, taking more than 40+ places for input and simplifying it to race, class, and stats. It also includes a randomizer, for that REAL D&D experience.
+  My second project was one that utilized an API based on the "System Reference Documents" provided in Dungeons and Dragons. It was primarily built to simplify the character creation process, taking more than 40+ places for input and simplifying it to race, class, and stats. It also includes a randomizer, for that REAL D&D experience.
   
   PROJECT: PIXIE.JS
   Pixie.js is a tarot card API highlighting the art of Pamela "Pixie" Colman Smith, with lots of routes and properties to sort the database by.
@@ -24,6 +24,9 @@ Skills:
 - Test Driven Development
 - PostgreSQL
 - HTML/CSS
+- Python
+- Django
+- Domain Driven Design
 - Miro Board for planning
 - Supabase
 - Leadership and allocating resources/work
@@ -35,16 +38,7 @@ Some ✨fun(?)✨ facts about me:
 - I hate the CSS property opacity. Alpha values rock!
 - I didn't think I would enjoy design, but I really do.
 - I write poetry and raps!
-
-*ahem*
-I bend HTML elements like the avatar Aang,
-I love weird stuff like interrobangs,
-Git clone, git push, I git that thang,
-I be throwing out bytes like I got fangs.
-This mic be a ternary, not null for eternity,
-Chasing the currency, rich person table insert me.
-I stay strict to my roots, like a kernal be,
-I speak from the heart, near where my sternum be.
+- I like playing around with ChatGPT for help, but I always have it make early 00s cartoon references.
 
 Thanks for visiting my page, feel free to ask questions, provide feedback, correct coding, etc!  👋  👋  👋 
 
